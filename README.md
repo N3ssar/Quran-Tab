@@ -21,13 +21,13 @@ This project is built using the following technologies:
 
 - HTML5
 - CSS3
-- JavaScript
+- SASS
 - Google Fonts (Rubik font family)
 - SVG icons
 
 ## Development
 
-This project uses HTML, CSS, and JavaScript. The main files are:
+This project uses HTML, CSS, and SASS. The main files are:
 
 - `index.html`: The landing page structure
 - `style.css`: Styles for the landing page
