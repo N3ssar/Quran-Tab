@@ -1,45 +1,83 @@
-# Quran Tab
+# Quran Tab Landing Page
 
-Quran Tab is a browser extension that replaces your new tab with a random ayah (verse) from the Quran, keeping you inspired every time you open a new tab.
+Quran Tab is a powerful and elegant browser extension that enhances your new tab experience by displaying a random verse from the Quran every time you open a new tab. Stay inspired and connected with the Quran effortlessly!
 
-## Features
+## 🌟 Features
 
-- Random Quran verses on new tabs
-- Support for 15+ translations
-- Fully translated into English and Arabic
-- Available for Chrome and Microsoft Edge
+- 📖 **Random Quran Verses**: A new verse appears every time you open a tab.
+- 🌍 **Support for 15+ Translations**: Choose your preferred translation.
+- 🌐 **Multi-Language Support**: Fully translated into **English** and **Arabic**.
+- 🎨 **Minimal & Clean Design**: A distraction-free reading experience.
+- 📅 **Daily Ayah Mode**: Get a single verse that changes daily.
+- 🎵 **Audio Recitation**: Listen to the verse with beautiful recitations.
+- 🌙 **Dark & Light Themes**: Customize the look to your preference.
+- ⚡ **Smooth Animations**: Powered by ScrollReveal.js for a dynamic UI.
+- 🔍 **Tafsir Support**: Read explanations of the verse within the extension.
 
-## Installation
+## 🚀 Installation
 
-- [Add to Chrome](https://bit.ly/qt-chrome)
-- [Add to Microsoft Edge](https://bit.ly/qt-edge)
-- Firefox: Coming Soon
+🔹 **Google Chrome** → [Add to Chrome](https://bit.ly/qt-chrome)  
+🔹 **Microsoft Edge** → [Add to Edge](https://bit.ly/qt-edge)  
+🔹 **Firefox** → *Coming Soon*
 
-## Technologies
+## 🎥 Live Demo
+**[Live Demo]([https://your-live-demo-link.com](https://qurantab.netlify.app/))**
 
-This project is built using the following technologies:
+## 🛠 Technologies Used
 
-- HTML5
-- CSS3
-- SASS
-- Google Fonts (Rubik font family)
-- SVG icons
+This project is built using modern web technologies:
 
-## Development
+- **HTML5** → Structuring the extension UI.
+- **CSS3 & SASS** → Styling with efficiency and maintainability.
+- **JavaScript (ES6+)** → Adding interactivity and dynamic content.
+- **Google Fonts (Rubik font family)** → Elegant typography.
+- **SVG Icons** → Lightweight and scalable icons.
+- **ScrollReveal.js** → Smooth animations and effects.
 
-This project uses HTML, CSS, and SASS. The main files are:
+## 📂 Project Structure
 
-- `index.html`: The landing page structure
-- `style.css`: Styles for the landing page
+```
+📂 QuranTab
+ ├── 📄 index.html  # The main landing page
+ ├── 📄 style.css   # The main styles
+ ├── 📄 script.js   # Handles interactivity and dynamic content
+ ├── 📂 assets/     # Images, fonts, and icons
+ └── 📂 translations/ # Quran translations in various languages
+```
 
-## Contributing
+## 🔧 Development Setup
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/n3ssar/QuranTab.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd QuranTab
+   ```
+3. Open `index.html` in your browser or use Live Server for real-time changes.
 
-## License
+## 🤝 Contributing
 
-This project is open source and available under the [MIT License](LICENSE).
+Contributions are welcome! If you'd like to improve this project:
 
-## Contact
+1. Fork the repository.
+2. Create a new branch (`feature-new-idea`).
+3. Make your changes and commit them.
+4. Submit a Pull Request.
 
-For any inquiries, please open an issue on this GitHub repository.
+
+## 📩 Contact
+
+For inquiries or feature requests, feel free to open an issue on this GitHub repository.
+
+---
+
+## 📸 Screenshot
+
+![Quran Tab Preview](./assets/quran-tab-preview.png)
+
+---
+
+Thank you for using **Quran Tab**! May it bring you daily inspiration. 🤲✨
+
