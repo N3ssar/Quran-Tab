@@ -32,12 +32,12 @@ This project is built using modern web technologies:
 - **JavaScript (ES6+)** → Adding interactivity and dynamic content.
 - **Google Fonts (Rubik font family)** → Elegant typography.
 - **SVG Icons** → Lightweight and scalable icons.
-- **ScrollReveal.js** → Smooth animations and effects.
+- **ScrollReveal.js** → Smooth Section animations and effects.
 
 ## 📂 Project Structure
 
 ```
-📂 QuranTab
+📂 QuranTab Landing Page
  ├── 📄 index.html  # The main landing page
  ├── 📄 style.css   # The main styles
  ├── 📄 script.js   # Handles interactivity and dynamic content
