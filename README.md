@@ -42,7 +42,6 @@ This project is built using modern web technologies:
  ├── 📄 style.css   # The main styles
  ├── 📄 script.js   # Handles interactivity and dynamic content
  ├── 📂 assets/     # Images, fonts, and icons
- └── 📂 translations/ # Quran translations in various languages
 ```
 
 ## 🔧 Development Setup
